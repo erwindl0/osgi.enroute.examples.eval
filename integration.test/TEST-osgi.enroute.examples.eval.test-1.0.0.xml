@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name='test.osgi.enroute.examples.eval.test' tests='2' time='0.62' failures='0' skipped='0' target='file:/c:/Users/delerw/.m2/repository/org/osgi/osgi.enroute.examples.eval.test/1.0.0-SNAPSHOT/osgi.enroute.examples.eval.test-1.0.0-SNAPSHOT.jar' timestamp='2016-10-10T14:32:36' hostname='delerw-PC' framework='org.eclipse.osgi_3.10.100.v20150529-1857 [0]' errors='0' framework-version='3.10.100.v20150529-1857'>
+  <properties>
+    <property name='java.vendor' value='Oracle Corporation'/>
+    <property name='sun.java.launcher' value='SUN_STANDARD'/>
+    <property name='sun.management.compiler' value='HotSpot 64-Bit Tiered Compilers'/>
+    <property name='os.name' value='Windows 8.1'/>
+    <property name='sun.boot.class.path' value='c:\Program Files\Java\jdk1.8.0_51\jre\lib\resources.jar;c:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar;c:\Program Files\Java\jdk1.8.0_51\jre\lib\sunrsasign.jar;c:\Program Files\Java\jdk1.8.0_51\jre\lib\jsse.jar;c:\Program Files\Java\jdk1.8.0_51\jre\lib\jce.jar;c:\Program Files\Java\jdk1.8.0_51\jre\lib\charsets.jar;c:\Program Files\Java\jdk1.8.0_51\jre\lib\jfr.jar;c:\Program Files\Java\jdk1.8.0_51\jre\classes'/>
+    <property name='tester.continuous' value='false'/>
+    <property name='sun.desktop' value='windows'/>
+    <property name='java.vm.specification.vendor' value='Oracle Corporation'/>
+    <property name='java.runtime.version' value='1.8.0_51-b16'/>
+    <property name='launch.services' value='true'/>
+    <property name='launch.notificationPort' value='-1'/>
+    <property name='launcher.properties' value='"C:\data\build-folders\osgi.enroute.examples.eval\integration.test\generated\launch5586422483591914681.properties"'/>
+    <property name='user.name' value='delerw'/>
+    <property name='launch.bundles' value='c:\Users\delerw\.m2\repository\org\apache\felix\org.apache.felix.configadmin\1.8.8\org.apache.felix.configadmin-1.8.8.jar,c:\Users\delerw\.m2\repository\org\apache\felix\org.apache.felix.scr\2.0.2\org.apache.felix.scr-2.0.2.jar,c:\Users\delerw\.m2\repository\org\osgi\org.eclipse.equinox.metatype\1.4.100.v20150408-1437\org.eclipse.equinox.metatype-1.4.100.v20150408-1437.jar,c:\Users\delerw\.m2\repository\org\osgi\org.osgi.service.metatype\1.3.0\org.osgi.service.metatype-1.3.0.jar,c:\Users\delerw\.m2\repository\org\osgi\osgi.enroute.examples.eval.parsii.provider\1.0.0-SNAPSHOT\osgi.enroute.examples.eval.parsii.provider-1.0.0-SNAPSHOT.jar,c:\Users\delerw\.m2\repository\org\osgi\osgi.enroute.examples.eval.test\1.0.0-SNAPSHOT\osgi.enroute.examples.eval.test-1.0.0-SNAPSHOT.jar,c:\Users\delerw\.m2\repository\org\osgi\osgi.enroute.hamcrest.wrapper\1.3.0-SNAPSHOT\osgi.enroute.hamcrest.wrapper-1.3.0-SNAPSHOT.jar,c:\Users\delerw\.m2\repository\org\osgi\osgi.enroute.junit.wrapper\4.12.0-SNAPSHOT\osgi.enroute.junit.wrapper-4.12.0-SNAPSHOT.jar,c:\Users\delerw\.m2\repository\biz\aQute\bnd\biz.aQute.tester\3.3.0\biz.aQute.tester-3.3.0.jar'/>
+    <property name='tester.trace' value='true'/>
+    <property name='user.language' value='en'/>
+    <property name='sun.boot.library.path' value='c:\Program Files\Java\jdk1.8.0_51\jre\bin'/>
+    <property name='java.version' value='1.8.0_51'/>
+    <property name='user.timezone' value='Europe/Paris'/>
+    <property name='tester.dir' value='C:\data\build-folders\osgi.enroute.examples.eval\integration.test'/>
+    <property name='sun.arch.data.model' value='64'/>
+    <property name='tester.unresolved' value='true'/>
+    <property name='java.endorsed.dirs' value='c:\Program Files\Java\jdk1.8.0_51\jre\lib\endorsed'/>
+    <property name='sun.cpu.isalist' value='amd64'/>
+    <property name='sun.jnu.encoding' value='Cp1252'/>
+    <property name='file.encoding.pkg' value='sun.io'/>
+    <property name='launch.noreferences' value='false'/>
+    <property name='file.separator' value='\'/>
+    <property name='java.specification.name' value='Java Platform API Specification'/>
+    <property name='java.class.version' value='52.0'/>
+    <property name='user.country' value='US'/>
+    <property name='java.home' value='c:\Program Files\Java\jdk1.8.0_51\jre'/>
+    <property name='java.vm.info' value='mixed mode'/>
+    <property name='os.version' value='6.3'/>
+    <property name='path.separator' value=';'/>
+    <property name='java.vm.version' value='25.51-b03'/>
+    <property name='user.variant' value=''/>
+    <property name='java.awt.printerjob' value='sun.awt.windows.WPrinterJob'/>
+    <property name='sun.io.unicode.encoding' value='UnicodeLittle'/>
+    <property name='awt.toolkit' value='sun.awt.windows.WToolkit'/>
+    <property name='user.script' value=''/>
+    <property name='user.home' value='C:\Users\delerw'/>
+    <property name='java.specification.vendor' value='Oracle Corporation'/>
+    <property name='java.library.path' value='c:\Program Files\Java\jdk1.8.0_51\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\delerw\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\ProgramFiles\Python27\Lib\site-packages\PyQt4;c:\Program Files\Java\jdk1.8.0_51\bin;c:\Program Files\Common Files\Microsoft Shared\Windows Live;c:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files\WIDCOMM\Bluetooth Software\;c:\Program Files\WIDCOMM\Bluetooth Software\syswow64;c:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;c:\Program Files (x86)\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;c:\Program Files\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;c:\Program Files (x86)\Windows Live\Shared;c:\Program Files (x86)\Graphviz 2.28\bin;c:\Program Files\TortoiseSVN\bin;c:\ProgramFiles\apache-ant-1.8.4\bin;c:\ProgramFiles\apache-maven-2.2.1\bin;c:\ProgramFiles\apache-maven-3.3.1\bin;c:\Program Files (x86)\NeXus Data Format\bin;c:\Program Files (x86)\WinSCP\;c:\Program Files\HDF_Group\HDFView\2.11.0\lib;c:\Program Files (x86)\sbt\;c:\ProgramFiles\Python27;c:\Program Files (x86)\Skype\Phone\;c:\Program Files\TortoiseGit\bin;c:\Program Files\Intel\WiFi\bin\;c:\Program Files\Common Files\Intel\WirelessCommon\;c:\ProgramFiles\MySQL\MySQL Utilities 1.6\;c:\ProgramFiles\JPM4J\bin;c:\ProgramFiles\JPM4J\bin;c:\Program Files (x86)\OpenVPN\bin;c:\Program Files\Intel\WiFi\bin\;c:\Program Files\Common Files\Intel\WirelessCommon\;.'/>
+    <property name='java.vendor.url' value='http://java.oracle.com/'/>
+    <property name='java.vm.vendor' value='Oracle Corporation'/>
+    <property name='java.runtime.name' value='Java(TM) SE Runtime Environment'/>
+    <property name='sun.java.command' value='aQute.launcher.Launcher'/>
+    <property name='java.class.path' value='c:\Users\delerw\.m2\repository\org\osgi\org.eclipse.osgi\3.10.100.v20150529-1857\org.eclipse.osgi-3.10.100.v20150529-1857.jar;c:\Users\delerw\.m2\repository\biz\aQute\bnd\biz.aQute.launcher\3.3.0\biz.aQute.launcher-3.3.0.jar'/>
+    <property name='launch.system.capabilities' value='osgi.native;osgi.native.osname:List&lt;String&gt;="Windows8.1,Windows 8.1,Win32";osgi.native.osversion:Version="6.3.0";osgi.native.processor:List&lt;String&gt;="x86-64,amd64,em64t,x86_64";osgi.native.language=en_US'/>
+    <property name='launch.name' value='integration.test'/>
+    <property name='launch.timeout' value='0'/>
+    <property name='launch.storage.dir' value='C:\data\build-folders\osgi.enroute.examples.eval\integration.test\generated\fw'/>
+    <property name='launch.keep' value='false'/>
+    <property name='java.vm.specification.name' value='Java Virtual Machine Specification'/>
+    <property name='java.vm.specification.version' value='1.8'/>
+    <property name='sun.cpu.endian' value='little'/>
+    <property name='sun.os.patch.level' value=''/>
+    <property name='java.io.tmpdir' value='C:\Users\delerw\AppData\Local\Temp\'/>
+    <property name='java.vendor.url.bug' value='http://bugreport.sun.com/bugreport/'/>
+    <property name='os.arch' value='amd64'/>
+    <property name='java.awt.graphicsenv' value='sun.awt.Win32GraphicsEnvironment'/>
+    <property name='java.ext.dirs' value='c:\Program Files\Java\jdk1.8.0_51\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext'/>
+    <property name='user.dir' value='C:\data\build-folders\osgi.enroute.examples.eval\integration.test\tmp'/>
+    <property name='launch.trace' value='true'/>
+    <property name='line.separator' value='
+'/>
+    <property name='java.vm.name' value='Java HotSpot(TM) 64-Bit Server VM'/>
+    <property name='launch.embedded' value='false'/>
+    <property name='launch.activators' value=''/>
+    <property name='file.encoding' value='Cp1252'/>
+    <property name='launch.system.packages' value='javax.script,org.eclipse.core.runtime.adaptor;x-friends:="org.eclipse.core.runtime",org.eclipse.core.runtime.internal.adaptor;x-internal:=true,org.eclipse.equinox.log;version="1.0",org.eclipse.osgi.container;version="1.0",org.eclipse.osgi.container.builders;version="1.0",org.eclipse.osgi.container.namespaces;version="1.0",org.eclipse.osgi.framework.console;version="1.1",org.eclipse.osgi.framework.eventmgr;version="1.2",org.eclipse.osgi.framework.internal.reliablefile;x-internal:=true,org.eclipse.osgi.framework.log;version="1.1",org.eclipse.osgi.framework.util;x-internal:=true,org.eclipse.osgi.internal.debug;x-internal:=true,org.eclipse.osgi.internal.framework;x-internal:=true,org.eclipse.osgi.internal.hookregistry;x-friends:="org.eclipse.osgi.tests",org.eclipse.osgi.internal.loader;x-internal:=true,org.eclipse.osgi.internal.loader.buddy;x-internal:=true,org.eclipse.osgi.internal.loader.classpath;x-internal:=true,org.eclipse.osgi.internal.loader.sources;x-internal:=true,org.eclipse.osgi.internal.location;x-internal:=true,org.eclipse.osgi.internal.messages;x-internal:=true,org.eclipse.osgi.internal.provisional.service.security;version="1.0.0";x-friends:="org.eclipse.equinox.security.ui",org.eclipse.osgi.internal.provisional.verifier;x-friends:="org.eclipse.update.core,org.eclipse.ui.workbench,org.eclipse.equinox.p2.artifact.repository",org.eclipse.osgi.internal.service.security;x-friends:="org.eclipse.equinox.security.ui",org.eclipse.osgi.internal.serviceregistry;x-internal:=true,org.eclipse.osgi.internal.signedcontent;x-internal:=true,org.eclipse.osgi.internal.url;x-internal:=true,org.eclipse.osgi.launch;version="1.0",org.eclipse.osgi.report.resolution;version="1.0",org.eclipse.osgi.service.datalocation;version="1.3",org.eclipse.osgi.service.debug;version="1.2",org.eclipse.osgi.service.environment;version="1.3",org.eclipse.osgi.service.localization;version="1.1",org.eclipse.osgi.service.pluginconversion;version="1.0",org.eclipse.osgi.service.resolver;version="1.6",org.eclipse.osgi.service.runnable;version="1.1",org.eclipse.osgi.service.security;version="1.0",org.eclipse.osgi.service.urlconversion;version="1.0",org.eclipse.osgi.signedcontent;version="1.0",org.eclipse.osgi.storage;x-friends:="org.eclipse.osgi.tests",org.eclipse.osgi.storage.bundlefile;x-internal:=true,org.eclipse.osgi.storage.url.reference;x-internal:=true,org.eclipse.osgi.storagemanager;version="1.0",org.eclipse.osgi.util;version="1.1",org.osgi.dto;version="1.0",org.osgi.framework;version="1.8",org.osgi.framework.dto;version="1.8",org.osgi.framework.hooks.bundle;version="1.1",org.osgi.framework.hooks.resolver;version="1.0",org.osgi.framework.hooks.service;version="1.1",org.osgi.framework.hooks.weaving;version="1.1",org.osgi.framework.launch;version="1.2",org.osgi.framework.namespace;version="1.1",org.osgi.framework.startlevel;version="1.0",org.osgi.framework.startlevel.dto;version="1.0",org.osgi.framework.wiring;version="1.2",org.osgi.framework.wiring.dto;version="1.2",org.osgi.resource;version="1.0",org.osgi.resource.dto;version="1.0",org.osgi.service.condpermadmin;version="1.1.1",org.osgi.service.log;version="1.3",org.osgi.service.packageadmin;version="1.2",org.osgi.service.permissionadmin;version="1.2",org.osgi.service.resolver;version="1.0.1",org.osgi.service.startlevel;version="1.1",org.osgi.service.url;version="1.0",org.osgi.util.tracker;version="1.5.1"'/>
+    <property name='java.specification.version' value='1.8'/>
+  </properties>
+  <testcase name='testEval' time='0.31' classname='osgi.enroute.examples.eval.test.EvalTest'/>
+</testsuite>
